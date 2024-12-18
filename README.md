@@ -1,6 +1,6 @@
 # Olympics Data Analysis Web Application
 
-# Description
+## Description
 An interactive web application built using Streamlit and Python to analyze and visualize Olympic data, including medal tallies, athlete performance, and trends over the years.
 
 ## Features
